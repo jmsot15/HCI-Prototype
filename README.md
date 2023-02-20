@@ -8,7 +8,7 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 2. [Version 2](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2?page-id=0%3A1&node-id=107%3A1056&viewport=107%2C311%2C0.27&scaling=scale-down&starting-point-node-id=107%3A1056)
 
 ## Demo Video
-![Demo Video](https://sheridanc-my.sharepoint.com/:v:/g/personal/soteloje_shernet_sheridancollege_ca/EX3_pMiWSldLnlB86-8AzbYBhGK2D5MwXzIA4E7Pspkv9g?e=NQzHnK)
+![Demo Video](https://youtu.be/6_RSYZF4V4A)
 
 ## Features
 - Login
@@ -53,4 +53,4 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 
 ## Links
 - [Figma Public Link](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2?page-id=0%3A1&node-id=107%3A1056&viewport=107%2C311%2C0.27&scaling=scale-down&starting-point-node-id=107%3A1056)
-- [Video Demo](https://sheridanc-my.sharepoint.com/:v:/g/personal/soteloje_shernet_sheridancollege_ca/EX3_pMiWSldLnlB86-8AzbYBhGK2D5MwXzIA4E7Pspkv9g?e=NQzHnK)
+- [Video Demo](https://youtu.be/6_RSYZF4V4A)
