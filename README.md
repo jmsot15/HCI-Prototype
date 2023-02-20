@@ -51,6 +51,15 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 ## Navigation Prototype
 ![Navigation Prototype](https://github.com/jmsot15/HCI-Prototype/blob/main/Navigation.png)
 
+## Future Planning
+| Issue | Feature |
+| -- | -- |
+| Constantly changing classrooms are time consuming to find | Integrate a virtual-reality map that will show a student how to reach their classroom based on their location |
+| Students tend to cram study sessions | Integrate user analytics that is based on student behaviour and gives them a breakdown of how to prioritize their tasks |
+| Important e-mails messages tend to be lost in user's inbox if there are many of them | Integrate AI that can pick out key words and automatically determine which messages are of high priority to the user
+| Need for other ways to increase student engagement | Integrate competitive activities like cahoot with friendly competition that keep students engaged in class |
+| Need to accomodate different learning styles for various individuals | Include a variety of media that students can opt to interact with as they follow along with the lesson |
+
 ## Links
 - [Figma Public Link](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2?page-id=0%3A1&node-id=107%3A1056&viewport=107%2C311%2C0.27&scaling=scale-down&starting-point-node-id=107%3A1056)
 - [Video Demo](https://youtu.be/6_RSYZF4V4A)
