@@ -57,7 +57,7 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 | Constantly changing classrooms are time consuming to find | Integrate a virtual-reality map that will show a student how to reach their classroom based on their location |
 | Students tend to cram study sessions | Integrate user analytics that is based on student behaviour and gives them a breakdown of how to prioritize their tasks |
 | Important e-mails messages tend to be lost in user's inbox if there are many of them | Integrate AI that can pick out key words and automatically determine which messages are of high priority to the user
-| Need for other ways to increase student engagement | Integrate competitive activities like cahoot with friendly competition that keep students engaged in class |
+| Need for other ways to increase student engagement | Integrate competitive activities like Kahoot with friendly competition that keep students engaged in class |
 | Need to accomodate different learning styles for various individuals | Include a variety of media that students can opt to interact with as they follow along with the lesson |
 
 ## Links
