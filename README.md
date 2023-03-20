@@ -4,11 +4,16 @@
 Prototype of a Sheridan Courses app that allows a student to view course materials, a timeline of their evaluations, and connect with others in their class.
 
 ## Prototype Versions
-1. [Version 1](https://www.figma.com/proto/Lh3udugyFlVg6MCSKMDrNB/INFO31179-Assignment-1?page-id=0%3A1&node-id=107%3A1056&starting-point-node-id=107%3A1056)
-2. [Version 2](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2?page-id=0%3A1&node-id=107%3A1056&viewport=107%2C311%2C0.27&scaling=scale-down&starting-point-node-id=107%3A1056)
+1. [Version 1](https://www.figma.com/proto/Lh3udugyFlVg6MCSKMDrNB/INFO31179-Assignment-1)
+2. [Version 2](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2)
+3. [Current Version](https://www.figma.com/proto/saz2X18zTmHxKTiLDkDxGq/INFO31179-Assignment-3-FINAL)
 
 ## Demo Video
 [Video Link](https://youtu.be/6_RSYZF4V4A)
+
+## User Testing
+[Participant 1](https://youtu.be/wxmx3KWWzj0)
+[Participant 2](https://youtu.be/NgFzlx_ztSE)
 
 ## Features
 - Login
@@ -18,11 +23,8 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
     - User can use search function to find specific classes
 - Navigation drawer
     - Home
-    - Profile
-    - My Courses
-    - Settings
     - Sign Out
-- Bottom navigation bar - dynamic based on course selected by user
+- Bottom navigation bar
     - Home
         - General overview of recent announcements and high-level information about the course
     - Modules
@@ -36,6 +38,7 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
             - Weight
             - Status
             - Type
+        - User can make submissions for assignments
     - Connect
         - User can view recent activity in the Discussion board or the Chats page
         - User can send a global message to members of class
