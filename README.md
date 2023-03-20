@@ -12,8 +12,8 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 [Video Link](https://youtu.be/6_RSYZF4V4A)
 
 ## User Testing
-[Participant 1](https://youtu.be/wxmx3KWWzj0)
-[Participant 2](https://youtu.be/NgFzlx_ztSE)
+- [Participant 1](https://youtu.be/wxmx3KWWzj0)
+- [Participant 2](https://youtu.be/NgFzlx_ztSE)
 
 ## Features
 - Login
