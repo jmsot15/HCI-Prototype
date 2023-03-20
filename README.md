@@ -64,5 +64,5 @@ Prototype of a Sheridan Courses app that allows a student to view course materia
 | Need to accomodate different learning styles for various individuals | Include a variety of media that students can opt to interact with as they follow along with the lesson |
 
 ## Links
-- [Figma Public Link](https://www.figma.com/proto/y64qSogtrzWRCwtl4a0jX0/INFO31179-Assignment-2?page-id=0%3A1&node-id=107%3A1056&viewport=107%2C311%2C0.27&scaling=scale-down&starting-point-node-id=107%3A1056)
+- [Figma Public Link](https://www.figma.com/proto/saz2X18zTmHxKTiLDkDxGq/INFO31179-Assignment-3-FINAL)
 - [Video Demo](https://youtu.be/6_RSYZF4V4A)
